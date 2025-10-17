@@ -118,7 +118,11 @@
 		"freeltc.online",
 		"lootyrewards.com",
 		"faucetme.com",
-		"ltc-trx-faucet.xyz"
+		"ltc-trx-faucet.xyz",
+		"clxaward.com",
+		"coininsly.com",
+		"freeltc.fun",
+		"claimlite.club"
 	],
 	"protocols": [
 		"magnet:"
@@ -132,7 +136,8 @@
 	"timeout": 30,
 	"top-hosts": [
 		"onlyfaucet.com",
-		"bitcotasks.com"
+		"bitcotasks.com",
+		"zanlix.eu"
 	],
 	"whitelist-mode": "popup-hosts"
 }
